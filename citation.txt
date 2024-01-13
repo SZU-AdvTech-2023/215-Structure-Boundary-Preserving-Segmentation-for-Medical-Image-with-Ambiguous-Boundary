@@ -1,0 +1,7 @@
+@inproceedings{REPO215,
+    author = "Lee, Hong Joo and Kim, Jung Uk and Lee, Sangmin and Kim, Hak Gu and Ro, Yong Man",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "4817--4826",
+    title = "{Structure Boundary Preserving Segmentation for Medical Image with Ambiguous Boundary}",
+    year = "2020"
+}
